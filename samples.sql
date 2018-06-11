@@ -23,7 +23,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 --
 -- Table structure for table `samples`
---
+
 
 CREATE TABLE IF NOT EXISTS `samples` (
   `id` tinyint(4) NOT NULL AUTO_INCREMENT,
