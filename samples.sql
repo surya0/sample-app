@@ -18,7 +18,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 -- Database: `sample-app`
 --
---
+
 -- --------------------------------------------------------
 --
 -- Table structure for table `samples`
